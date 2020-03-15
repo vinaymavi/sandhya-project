@@ -18,3 +18,14 @@ body,html{
     line-height: 56px;
     margin-block-start:0;
 }
+.nav-section{
+    background-color: white;
+    border: 1px solid;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.nav-section a {
+    display: block;
+    color: black;
+    margin-top: 20px;
+}
